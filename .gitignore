@@ -1,5 +1,3 @@
-.env
-.env.*
 !.env.example
 .github_key
 __pycache__/
@@ -13,3 +11,4 @@ dist/
 
 .worktrees/
 .superpowers/
+config.bat
